@@ -1,0 +1,17 @@
+....rr....
+....y.....
+**......*Y
+**......*Y
+.....r...r
+..........
+..........
+..rr......
+
+
+
+
+P - Purple: worth 2 points.
+B - Blue: worth 3 points.
+Y - Yellow: worth 4 points.
+R - Red: worth 5 points.
+G - Green: worth 6 points.
